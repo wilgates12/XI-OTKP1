@@ -1,5 +1,4 @@
-
-const BoxOldWeb = () => {
+const SMKTAPWeb = () => {
 	return (
 		<div id="BoxOldWeb">
 			<a href="https:/">
